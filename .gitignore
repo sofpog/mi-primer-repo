@@ -1,0 +1,15 @@
+# Ignorar la carpeta de dependencias
+
+node_modules/
+
+# Ignorar archivos de configuración
+
+.env
+
+# Ignorar archivos temporales del sistema
+
+.DS_Store
+
+# Ignorar documentos privados
+
+documento-privado.html
